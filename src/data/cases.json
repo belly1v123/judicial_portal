@@ -1,0 +1,88 @@
+[
+    {
+        "id": "CASE-2025-001",
+        "complainant": "Ram Kumar Sharma",
+        "respondent": "Nepal Telecom Ltd.",
+        "caseType": "Civil",
+        "description": "Dispute regarding unauthorized billing charges",
+        "status": "Under Review",
+        "filedDate": "2025-01-15",
+        "nextHearing": "2025-02-10",
+        "timeline": [
+            {
+                "date": "2025-01-15",
+                "event": "Case filed",
+                "description": "Case registered in the system"
+            },
+            {
+                "date": "2025-01-20",
+                "event": "Documents verified",
+                "description": "All submitted documents verified by clerk"
+            },
+            {
+                "date": "2025-01-25",
+                "event": "First hearing scheduled",
+                "description": "Hearing scheduled for February 10, 2025"
+            }
+        ]
+    },
+    {
+        "id": "CASE-2025-002",
+        "complainant": "Sita Devi Thapa",
+        "respondent": "Kathmandu Municipality",
+        "caseType": "Administrative",
+        "description": "Property tax assessment dispute",
+        "status": "Hearing Scheduled",
+        "filedDate": "2025-01-20",
+        "nextHearing": "2025-02-15",
+        "timeline": [
+            {
+                "date": "2025-01-20",
+                "event": "Case filed",
+                "description": "Case registered in the system"
+            },
+            {
+                "date": "2025-01-22",
+                "event": "Documents verified",
+                "description": "Initial review completed"
+            }
+        ]
+    },
+    {
+        "id": "CASE-2024-455",
+        "complainant": "Hari Bahadur Gurung",
+        "respondent": "ABC Private Ltd.",
+        "caseType": "Labor",
+        "description": "Wrongful termination claim",
+        "status": "Verdict Announced",
+        "filedDate": "2024-10-05",
+        "nextHearing": null,
+        "timeline": [
+            {
+                "date": "2024-10-05",
+                "event": "Case filed",
+                "description": "Case registered in the system"
+            },
+            {
+                "date": "2024-10-15",
+                "event": "First hearing",
+                "description": "Both parties presented initial arguments"
+            },
+            {
+                "date": "2024-11-10",
+                "event": "Evidence submission",
+                "description": "Documentary evidence submitted by both parties"
+            },
+            {
+                "date": "2024-12-20",
+                "event": "Final hearing",
+                "description": "Final arguments heard"
+            },
+            {
+                "date": "2025-01-10",
+                "event": "Verdict announced",
+                "description": "Court ruled in favor of complainant"
+            }
+        ]
+    }
+]

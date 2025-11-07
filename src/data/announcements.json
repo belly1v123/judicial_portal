@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "New Online Filing System Launched",
+        "content": "The judiciary has launched a new online case filing system. Citizens can now file cases from the comfort of their homes.",
+        "date": "2025-01-05",
+        "type": "announcement"
+    },
+    {
+        "id": 2,
+        "title": "Holiday Notice",
+        "content": "All courts will remain closed on February 19, 2025 on account of Democracy Day.",
+        "date": "2025-02-01",
+        "type": "holiday"
+    },
+    {
+        "id": 3,
+        "title": "Free Legal Aid Camps",
+        "content": "Free legal aid camps will be organized in all district headquarters from February 15-20, 2025.",
+        "date": "2025-01-28",
+        "type": "event"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "JDG-2024-089",
+        "title": "Ram Kumar Sharma vs. ABC Bank Ltd.",
+        "caseNumber": "CASE-2024-123",
+        "court": "Supreme Court of Nepal",
+        "date": "2024-12-15",
+        "judge": "Hon'ble Justice Krishna Prasad Bhandari",
+        "category": "Banking Dispute",
+        "summary": "The court ruled in favor of the complainant regarding unauthorized loan processing charges. The bank was ordered to refund the excess charges with interest.",
+        "keywords": [
+            "banking",
+            "loan",
+            "unauthorized charges",
+            "consumer rights"
+        ]
+    },
+    {
+        "id": "JDG-2024-078",
+        "title": "State vs. Gopal Singh Thakuri",
+        "caseNumber": "CASE-2024-089",
+        "court": "High Court, Kathmandu",
+        "date": "2024-11-20",
+        "judge": "Hon'ble Justice Meera Khadka",
+        "category": "Criminal",
+        "summary": "The defendant was found guilty of fraud and sentenced to 3 years imprisonment with a fine of NPR 500,000.",
+        "keywords": [
+            "fraud",
+            "criminal",
+            "conviction",
+            "imprisonment"
+        ]
+    },
+    {
+        "id": "JDG-2024-065",
+        "title": "Sita Sharma vs. Kathmandu Metropolitan City",
+        "caseNumber": "CASE-2024-056",
+        "court": "Administrative Court",
+        "date": "2024-10-10",
+        "judge": "Hon'ble Justice Prakash Dhungana",
+        "category": "Administrative",
+        "summary": "Court directed the metropolitan city to reconsider the property tax assessment within 60 days. The original assessment was found to be arbitrary and without proper justification.",
+        "keywords": [
+            "property tax",
+            "administrative law",
+            "municipal",
+            "assessment"
+        ]
+    },
+    {
+        "id": "JDG-2024-052",
+        "title": "Workers Union vs. XYZ Manufacturing Pvt. Ltd.",
+        "caseNumber": "CASE-2024-034",
+        "court": "Labor Court",
+        "date": "2024-09-25",
+        "judge": "Hon'ble Justice Sunita Rajbhandari",
+        "category": "Labor",
+        "summary": "The company was ordered to reinstate 15 workers who were terminated without following due process. Compensation for lost wages was also awarded.",
+        "keywords": [
+            "labor dispute",
+            "wrongful termination",
+            "worker rights",
+            "compensation"
+        ]
+    },
+    {
+        "id": "JDG-2024-041",
+        "title": "Laxmi Devi Poudel vs. Nepal Telecom",
+        "caseNumber": "CASE-2024-021",
+        "court": "District Court, Lalitpur",
+        "date": "2024-08-30",
+        "judge": "Hon'ble Justice Ramesh Kumar Shrestha",
+        "category": "Consumer Rights",
+        "summary": "Nepal Telecom was found liable for service interruption and ordered to compensate the complainant for business losses caused by prolonged internet outage.",
+        "keywords": [
+            "telecom",
+            "consumer rights",
+            "service quality",
+            "compensation"
+        ]
+    }
+]
