@@ -185,15 +185,9 @@ This project is created for academic purposes as part of an e-Governance course.
 
 ## 👥 Authors
 
-- CSIT Sixth Semester Students
+- Pranjal Kharel
 - e-Governance Course Project
 
-## 📞 Support
 
-For questions or issues:
-- Email: support@judicial.gov.np (mock)
-- Phone: 1660-01-08000 (mock)
-
----
 
 **Note**: This is a mock MVP for demonstration purposes. All data, API calls, and services are simulated client-side. In a production environment, this would connect to real backend services with proper authentication, authorization, and data persistence.
