@@ -8,7 +8,7 @@ export default {
         extend: {
             colors: {
                 judicial: {
-                    primary: '#1e40af',
+                    primary: '#0e246dff',
                     secondary: '#3b82f6',
                     dark: '#1e3a8a',
                     light: '#60a5fa',

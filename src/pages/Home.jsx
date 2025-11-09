@@ -19,7 +19,7 @@ const Home = () => {
     return (
         <div className="min-h-screen">
             {/* Hero Section */}
-            <section className="bg-gradient-to-r from-judicial-primary to-judicial-secondary text-white py-20 px-4">
+            <section className="text-white py-20 px-4" style={{ backgroundColor: '#02408dff' }}>
                 <div className="container mx-auto text-center">
                     <div className="text-6xl mb-6">⚖️</div>
                     <h1 className="text-4xl md:text-5xl font-bold mb-4">
@@ -194,7 +194,7 @@ const Home = () => {
             </section>
 
             {/* CTA Section */}
-            <section className="bg-judicial-primary text-white py-16 px-4">
+            <section className="text-white py-16 px-4" style={{ backgroundColor: '#02408dff' }}>
                 <div className="container mx-auto text-center">
                     <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
                     <p className="text-xl mb-8 text-blue-100">

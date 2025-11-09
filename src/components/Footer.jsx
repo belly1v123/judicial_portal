@@ -50,6 +50,9 @@ const Footer = () => {
 
                 <div className="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-400">
                     <p>&copy; 2025 National Judicial Portal. All rights reserved.</p>
+                    <p className="mt-2 text-gray-300">
+                        Developed by: <span className="font-semibold text-white">Pranjal Kharel</span>, <span className="font-semibold text-white">Ravi Sankhar Sah</span> & <span className="font-semibold text-white">Ankit Rimal</span>
+                    </p>
                     <p className="mt-2">
                         <a href="#" className="hover:text-white">Privacy Policy</a>
                         {' | '}
